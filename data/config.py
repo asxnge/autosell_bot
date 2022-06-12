@@ -15,4 +15,4 @@ else:
         print("***** Вы не указали админ ID *****")
 
 bot_version = "2.9"
-bot_description = f"<b>♻ Bot created by @B0CKPEC1</b>\n" \
+bot_description = f"<b>♻ Bot created by @asxnge</b>\n" \
